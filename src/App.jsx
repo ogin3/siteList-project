@@ -3,6 +3,7 @@
 import { Box, Stack, Flex } from "@chakra-ui/react";
 import TopHeader from "./components/TopHeader";
 import SideMenu from "./components/SideMenu";
+import ListContent from "./components/ListContent";
 
 function App() {
   // const [count, setCount] = useState(0);
@@ -10,12 +11,14 @@ function App() {
   return (
     <>
       <TopHeader />
-      <Flex w="100vw">
+      <Flex>
         <Box w="100vw" h="100wh">
-          <Flex>
-            <SideMenu />
-            <Box w="70vw">
-              {/* サイドメニューアイコンをクリックするとここが切り替わる */}
+          <Flex w="100vw">
+            <Box w="20vw">
+              <SideMenu />
+            </Box>
+            <Box w="80vw">
+              <ListContent />
             </Box>
           </Flex>
         </Box>

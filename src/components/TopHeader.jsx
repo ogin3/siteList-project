@@ -4,7 +4,7 @@ import React from "react";
 function TopHeader() {
   return (
     <>
-      <Box bg="gray.400" w="100vw">
+      <Box bg="gray.400" w="100vw" h="5vh">
         <Center>
           <Heading>タイトル</Heading>
         </Center>
