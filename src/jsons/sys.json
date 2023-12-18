@@ -1,0 +1,65 @@
+{
+  "postLists": [
+      {
+        "id": 1,
+        "status":"×",
+        "cmp":"マスター",
+        "site":"サイト名１",
+        "guest":"https://yahoo.co.jp",
+        "admin":"https://google.com",
+        "staff":"https://yahoo.co.jp",
+        "test":"https://www.msn.com/ja-jp",
+        "ip":"192.168.0.1",
+        "uid":"4001",
+        "contractid":"5489",
+        "price":"145$",
+        "remarks":"一旦停止してます"
+      },
+      {
+        "id": 2,
+        "status":"〇",
+        "cmp":"マスター",
+        "site":"サイト名２",
+        "guest":"https://yahoo.co.jp",
+        "admin":"https://google.com",
+        "staff":"https://yahoo.co.jp",
+        "test":"https://www.msn.com/ja-jp",
+        "ip":"192.168.0.1",
+        "uid":"4001",
+        "contractid":"5489",
+        "price":"145$",
+        "remarks":"一旦停止してます"
+      },
+      {
+        "id": 3,
+        "status":"×",
+        "cmp":"マスター",
+        "site":"サイト名3",
+        "guest":"https://yahoo.co.jp",
+        "admin":"https://google.com",
+        "staff":"https://yahoo.co.jp",
+        "test":"https://www.msn.com/ja-jp",
+        "ip":"192.168.0.1",
+        "uid":"4001",
+        "contractid":"5489",
+        "price":"145$",
+        "remarks":"一旦停止してます"
+      },
+      {
+        "id": 4,
+        "status":"〇",
+        "cmp":"マスター",
+        "site":"サイト名4",
+        "guest":"https://yahoo.co.jp",
+        "admin":"https://google.com",
+        "staff":"https://yahoo.co.jp",
+        "test":"https://www.msn.com/ja-jp",
+        "ip":"192.168.0.1",
+        "uid":"4001",
+        "contractid":"5489",
+        "price":"145$",
+        "remarks":"一旦停止してます"
+      }
+
+  ]
+}
